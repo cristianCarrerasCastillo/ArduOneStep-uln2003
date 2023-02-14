@@ -1,0 +1,6 @@
+Id,Identificador,Paquete,Cantidad,Identificación,Suministrador y ref,Comment
+1,PS1,PinSocket_1x15_P2.54mm_Vertical,2,PinSocket_1x15_P2.54mm_Vertical,2042-1X15G00SA,or similary
+2,U1,DIP-16_W7.62mm,1,ULN2003A,ULN2003A,any fabricant
+3,J1,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,1,stepper,jst xh 1x04 2.5 horizontal,any fabricant
+4,J2,JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal,1,jst battery,jst xh 1x2 2.5 horizontal,any fabricant
+5,C1,C_1206_3216Metric,1,10nf,10nf,any fabricant
